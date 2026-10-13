@@ -1,7 +1,4 @@
 # smt-data-challenge-2023
-Project submission for the 2023 SMT Data Challenge. We chose to explore whether stolen base decisions could be efficiently simplified.
+This project explores whether stolen base decisions could be efficiently simplified for the 2023 SMT (SportsMEDIA Technology) Data Challenge. We hope to find out what factors play a role in the success of a stolen base and what thresholds need to be met. I was primarily responsible for Success_or_Not.ipynb, which determined which cases were considered (successful) stolen bases.
 
-We used R (tidyverse) for our project, on Google Colab Jupyter Notebook. For more information, please look into the project paper.
-
-We included the notes we took during our meetings over the summer under 'SMT Data Challenge Notes' because we believe it might give insight to our project process.
-Names are redacted with [Anonymous] for anonymity.
+We used R (tidyverse) for our project, on Google Colab Jupyter Notebook. 
